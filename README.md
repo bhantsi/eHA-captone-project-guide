@@ -81,7 +81,7 @@ $ code .
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
-- [The figma design to replicate with only HTML and CSS](https://www.figma.com/file/tL164zLjkDuWgfRGsbUqHs/eHA-Academy-Capstone-Project?node-id=0%3A1&t=nTVIa4umq4ljqjDb-1)
+- The figma design to replicate with only HTML and CSS [Project one](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=3%3A2&mode=design&t=cKiQUcOwtNrGoRWA-1), [Project two](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=506%3A6346&mode=design&t=cKiQUcOwtNrGoRWA-1), or [Project three](https://www.google.com/url?q=https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type%3Ddesign%26node-id%3D506%253A3558%26mode%3Ddesign%26t%3DcKiQUcOwtNrGoRWA-1&sa=D&source=editors&ust=1701438224537401&usg=AOvVaw1VXnlI9JvscxWoXvIn4Kqm).
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
