@@ -50,15 +50,33 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML](#)
-- [CSS](#)
-- [JavaScript](#)
+- [HTML](https://www.w3schools.com/html/)
+- [CSS](https://www.w3schools.com/css/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This site was created as a submission to a [eHA Academy](https://academy.ehealthafrica.org/) capstone project. The [project](#) was to build a personal porfolio to complete the given user stories.
+**Navbar** - The navbar should contain site menus
+-  Each menu item will take me to relevant section when clicked
+-  There should be a least 3 menus in the navbar
+
+**Hero Section** - The hero section should contain a title text and or subtitle
+ -  A background image is also expected
+
+**About Section** - This should include a profile picture or avatar
+- There should be 1 or 2 paragraph of text
+
+**Projects Section** - This section should list previous projects
+ - There should be at least 3 items
+ - They should be in grid on desktop view and list on mobile view
+- If your projects list are more than 6 then show all button should be implemented
+
+**Contact Section** - This section should include contact medium 
+
+**Footer Section** - There should be a social icons
+
 
 ## How To Use
 
@@ -81,7 +99,6 @@ $ code .
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
 
-- The figma design to replicate with only HTML and CSS [Project one](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=3%3A2&mode=design&t=cKiQUcOwtNrGoRWA-1), [Project two](https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type=design&node-id=506%3A6346&mode=design&t=cKiQUcOwtNrGoRWA-1), or [Project three](https://www.google.com/url?q=https://www.figma.com/file/0kUWKG3MAtpImsMO5nJsWu/Academy---Portfolio-Website-Project?type%3Ddesign%26node-id%3D506%253A3558%26mode%3Ddesign%26t%3DcKiQUcOwtNrGoRWA-1&sa=D&source=editors&ust=1701438224537401&usg=AOvVaw1VXnlI9JvscxWoXvIn4Kqm).
 - [Awesome README](https://github.com/matiassingers/awesome-readme)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
